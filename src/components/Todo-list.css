@@ -1,0 +1,32 @@
+.todo-list{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    border: 1px solid #183153;
+    border-radius: 2px;
+    margin: 10px 0;
+}
+
+
+
+i, .default-para{
+    margin: 5px 0;
+    margin-right: 10px;
+}
+
+.default-para{
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.todo-icons button{
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #183153;
+    font-size: 16px;
+}
+
+.strikethrough{
+    text-decoration: line-through;
+}

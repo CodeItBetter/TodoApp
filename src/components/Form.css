@@ -1,0 +1,23 @@
+.form{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 20px;
+}
+
+input{
+    width: 85%;
+    margin-right: 20px;
+    padding: 5px;
+    border: none;
+    border-radius: 2px;
+}
+
+.form button{
+    padding: 5px;
+    border: none;
+    border-radius: 2px;
+    width: 15%;
+    background: #fee2d5;
+    color: #183153;
+}
